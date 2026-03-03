@@ -14,7 +14,7 @@ Meu nome é Ryan Franklin sou um profissional focado na área de **Ciência de D
 
 ---
 
-### 🛠️ [TECH_STACK_CORE]
+### 🛠️ [Habilidades]
 
 <div align="center">
 
@@ -28,7 +28,7 @@ Meu nome é Ryan Franklin sou um profissional focado na área de **Ciência de D
 
 ---
 
-### 📊 [NEURAL_NETWORK_STATS]
+### 📊 [Status]
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ryanfranklin2001-byte&theme=tokyonight&hide_border=true&v=1" />
@@ -36,7 +36,7 @@ Meu nome é Ryan Franklin sou um profissional focado na área de **Ciência de D
 
 ---
 
-### 🚀 [FEATURED_PROJECTS]
+### 🚀 [Meus projetos]
 
 | Sistema | Descrição | Link |
 | :--- | :--- | :--- |
@@ -46,12 +46,9 @@ Meu nome é Ryan Franklin sou um profissional focado na área de **Ciência de D
 
 ---
 
-### 📡 [COMMUNICATION_CHANNELS]
+### 📡 [Entre em contato comigo]
 
 <div align="center">
-  <a href="mailto:seu-email@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
    <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
