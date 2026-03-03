@@ -31,10 +31,12 @@ Meu nome é Ryan Franklin sou um profissional focado na área de **Ciência de D
 ### 📊 [NEURAL_NETWORK_STATS]
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ryanfranklin2001-byte&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfranklin2001-byte&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ryanfranklin2001-byte&theme=tokyonight&hide_border=true" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ryanfranklin2001-byte&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfranklin2001-byte&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+  
+  <img src="https://streak-stats.demolab.com?user=ryanfranklin2001-byte&theme=tokyonight&hide_border=true&v=1" />
 </div>
 
 ---
