@@ -58,9 +58,6 @@ Meu nome é Ryan Franklin sou um profissional focado na área de **Ciência de D
 ### 📡 [COMMUNICATION_CHANNELS]
 
 <div align="center">
-  <a href="https://instagram.com/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:seu-email@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
